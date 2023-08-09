@@ -1,0 +1,19 @@
+-Tạo 1 project trên github:
++git clone htpp://...hoặc git clone link ssh.. để sao chép thư mục trên github về
++viết code 
++git status
++git add <file> ... vào stage area
++git commit -m "your massage" vào git local 
++git push origin main để đẩy code lên github
+-Tạo 1 project local và đẩy code lên trên github:
++git init để tạo git local và stage area
++viết code 
++git status
++git add <file> ... vào stage area
++git commit -m "your massage" vào git local
++git remote and origin htpp:... để kết nối remote với local 
++git push origin master để đẩy code lên github
+-Tạo nhánh trên github:
++git branch -b tên nhánh 
+VD: git branch -b phat
+ 

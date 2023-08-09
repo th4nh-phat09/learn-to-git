@@ -1,0 +1,8 @@
+ssh vs http thật sự â cái này hoàn toàn giống nhau đều là bảo mật nhưng http thì ph nhập user name và password mỗi khi làm còn ssh thì chúng ta chỉ cần cấu hình cho nó là đc
+-cách tạo key ssh:
+github->setting->ssh and gpg keys->new ssh keys-> name and link key public.
+-how to create key public for github:
+1.Open Git Bash.
+2.Paste the text below, substituting in your GitHub email address:
+   ssh-keygen -t ed25519 -C "your_email@example.com"
+3.open username window(C/user/thanhquoc)->open .ssh->open id.. public ->copy link key public
