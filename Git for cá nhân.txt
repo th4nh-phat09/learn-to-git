@@ -13,7 +13,4 @@
 +git commit -m "your massage" vào git local
 +git remote and origin htpp:... để kết nối remote với local 
 +git push origin master để đẩy code lên github
--Tạo nhánh trên github:
-+git branch -b tên nhánh 
-VD: git branch -b phat
- 
+

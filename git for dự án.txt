@@ -1,0 +1,6 @@
+-git branch tên nhánh
+ex:git branch phat
+-git checkout tên nhánh sẽ chuyển qua nhánh khác
+ex:git checkout phat
+-git pull sẽ kéo code từ remote về trong dự án
+-git merges
